@@ -49,7 +49,7 @@ async def stop(client, m: Message):
         try:
             await call_py.leave_group_call(chat_id)
             clear_queue(chat_id)
-            await m.reply("**✅ Mengakhiri pemutaran**")
+            await m.reply("**✅ End playback**")
         except Exception as e:
             await m.reply(f"**ERROR** \n`{e}`")
     else:
