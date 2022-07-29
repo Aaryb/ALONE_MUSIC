@@ -1,7 +1,7 @@
 <h2 align="center"> <a href="https://github.com/i-am-pro-king/ALONE_MUSIC">🔰Alone VC PLAYER🔰</a></h2>
 
 
-[![LEGEND-Alone LOGO](https://telegra.ph/file/348310d2804bb2983740d.jpg)](https://github.com/i-am-pro-king/ALONE_MUSIC)
+- [![Replit](https://www.digitaldreamforge.com/wp-content/uploads/2019/10/Replit.jpg)](https://replit.com/@iampr0king/ALONE-STRING)
 
 
 <details>
