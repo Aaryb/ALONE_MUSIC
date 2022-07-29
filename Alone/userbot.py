@@ -133,7 +133,7 @@ async def repo(client, m: Message):
 • Python 3.8+
 • FFMPEG
 • Nodejs v16+
-[Repo VC-Userbot](https://github.com/RioProjectX/VC-Userbot)
+[Repo VC-Userbot](https://github.com/i-am-pro-king/ALONE_MUSIC)
 📝 Variabel Required
 • `API_ID` - Get From [my.telegram.org](https://my.telegram.org)
 • `API_HASH` - Get From [my.telegram.org](https://my.telegram.org)
